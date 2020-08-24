@@ -29,6 +29,10 @@
     margin-bottom: 50px;
 }
 
+#sectionbackground {
+    background-color:white;
+}
+
 @media (max-width: 540px) {
     .navbar-light.bg-light {
         background-color: teal !important;
